@@ -7,3 +7,5 @@ I love :anime:, :pizza:, :camping:
 i love 🇦🇷, 🐶, 🐈‍⬛
 
 Ultima linea de mi repositorio
+
+realizo modificaciones varias

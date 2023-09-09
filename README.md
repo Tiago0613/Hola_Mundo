@@ -10,4 +10,4 @@ Ultima linea de mi repositorio
 
 realizo modificaciones 
 
-agrgado de lineas
+agregado de lineas
